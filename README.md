@@ -1,4 +1,4 @@
-#Model Rocket Simulation
+# Model Rocket Simulation
 
 A simple flight simulation of a 100g, c-class model rocket 
 that outputs altitude vs time. This simulation is meant to 
